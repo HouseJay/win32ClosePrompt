@@ -1,0 +1,10 @@
+E:\Commercial Program\Test\Test\bin\Debug\Test.exe.config
+E:\Commercial Program\Test\Test\bin\Debug\Test.exe
+E:\Commercial Program\Test\Test\bin\Debug\Test.pdb
+E:\Commercial Program\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+E:\Commercial Program\Test\Test\obj\Debug\Test.Properties.Resources.resources
+E:\Commercial Program\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+E:\Commercial Program\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\Commercial Program\Test\Test\obj\Debug\Test.exe
+E:\Commercial Program\Test\Test\obj\Debug\Test.pdb
+E:\Commercial Program\Test\Test\obj\Debug\Test.Form1.resources
